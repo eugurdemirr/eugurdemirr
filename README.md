@@ -1,18 +1,13 @@
-<h4 align="center">Hi 👋, I'm Uğur<br>A passionate frontend developer from Turkey</h4>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
+<h1 align="center">Hi there 👋, I'm Uğur<br>A passionate frontend developer from Turkey</h4>
 
 
-###
 
-<h4 align="center">Languages and Tools</h4>
 
-###
+<h2 align="center">Welcome to my GitHub profile!🖐</h4>
 
+
+
+<h4 align="center">🔧 Technologies & Tools</h4>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -46,17 +41,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" alt="atom logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/RHEqKwRZDwFKE/giphy.gif"  />
-</div>
+## 📈 My Top Languages
 
-###
+![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eugurdemirr&layout=compact&theme=dark)
+
+## 📣 Social Media
+
+- LinkedIn: [Uğur Demir](https://www.linkedin.com/in/eugurdemirr/)
+
